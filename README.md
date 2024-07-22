@@ -98,4 +98,29 @@
 
 ### Wireframe Diagram for Frontend
 
-![Wireframe Diagram](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAYAAAC4fZc8AAAgAElEQVR4nOzdeZAcxXH8b++xvlIzMw8uSgvJlCTHQjFeJAQIHQig6FIuFQIgiDiZ8ABcIINSh4ULFxwHUEFUBURQBQUKBCoUBQUBRK0CSkgITbXeyFJl2eb9mZ/7PXXXmyvWz2WvXv2mbs6TseM/3uT2cc1u+9+8JjijipwFmP5hsAzn+0fALz8ugMAsULRAHwhvPEBcH48wEszYpsL+Aw0BeDEBgPBvh3gNz2mM0B8MDAcHv2ZhBm+kPwD6rJgU9ZIsIDY6tn7Ub7xiNwPDAcO+uTbMB4EPO7xHRDkgvItt/C6FoQA3A4Bo5fAh8iyC+64ABmTAd9Bd/R5UgFg94LAuHlATDY/gDeAHe+IFyfODoBDPOZLpg/R9PAzQFLoQY68AlgnIvAPyeAF8FEVIV7EhfCkCEYw94NfjpAgX44W/EYzk8Az5+h/sA7Jc8ZPG4agGb6j3wi8FnPeF7JftEgO4MboXYxAnB+EB8V8L47QQJPGUPewrD5Gb6kALwBsCvzFXf0fQML5ADiHcH9wXG+cKwe9eATfUkvF9+FmwHYq2NQHwc6thXPIALxbgT1uv0wH2xwNdDA98TbYtOs48pUgM4BKwR6vEwH2lh3WQwf6DsxXA1fG+KpAL4egCHvHiK+nTFbWAw30GNA3S4evDMBrRg8BW0NrPBdGowRXLhT7j6Eyf+fA6TbUVLLjFqMXhb6/oGJNDd0hBAnZADswP6F9tTGe+A0skOsHCvAy4Hdmg9c8t06wz1XAMxBsT4B5l9vg47H4A4oWqxmrAxuBhTrKGBmIoS0iEg06wMNo8D9djof3Rp5O1aXh6DUGAtdFPAGt9oPHQGmIoTMUE+FfsAnB2/NozQKyWjHGM8aCDi2gTAE0O6QA7ARak/0nF8DB2MkhIMPRYF+Bqz5x0EgDDBaTjAF6gTV4TANu2JAZh6NHMJ4EAzGfLAGuyXI3QEkYeEno90EqFno7dLbIzshboDAZmGSPyywI8NKvklNQcMAz6+RXLHXxHgDcAg2LoxwHhIuLoxwHCewCTddIWcACmIqVsdA2wGJ1jNhF0uHAaLsbdfAxTeR7pjACV9wJwHRBRrNHwtMj2ZOG9M1IC2EzU5RkDWsGmoZYw3eTxmzXAY0DYVKHThW50bP7zDDN0Ldp6DEAt5iNsX0ER3RPN0HYOsPbmcS4U4B2ukIeyO09TBah1RBtmqMdJO/jpAM1A7GnMU4J+lJdNRQdfG/U+RliOtfLgnCft9mSG07wH6fz2eIZOKvF8vR7Bdr1Pb3byy2sUwD3E2s2AWYynYrI1/rZsIwK02wvm+oW9aLR1sZmKYAIxlyQyoWAO49OnzYIZdhR02Q7bKfKJADcJmPvZK+rwBGvHniWBH0BJh0FwG3E6ccya+J6VgBsBB21EIvU4FvC+yQJMAyy4hHeAKdBNP7XLwDeCy+QvAXLjm0+RQ7Gl+QvAM3LDnXbE8Y5rHXFq2p6oZVxFsZ20OHZbBtQA8HlASbQDsG5g0Wu0FqkYt8/ODphdG3BOdpmV52GOpYBLmdSh8UB9mFLtxwCG1smg1p7GBQBGzC9IbRge01q7cagRgOj9WA+2EXjwrNmbMIxBrCrt1kNU5mInOwzoak42KwFswDdGcQsPMLxAI2FZSGOeIGdA3XZKrDUY4XgJsRswE7TFfiGV+7AkEqFXuE+x7ZEqwtsdsFngNNAf02ALRwhVwAqw4trT9p8+QNpT+eJeA2wbm
+Here's a textual wireframe representation for the frontend of your application:
+
+```
+------------------------------------------------------------------------
+|                       Header                                         |
+|----------------------------------------------------------------------|
+| Logo                      | Home | Features | Pricing | Contact |
+------------------------------------------------------------------------
+| Sidebar            |                Main Content Area                |
+|--------------------|-------------------------------------------------|
+| Profile Picture    |             Dashboard: 
+| User Information   | Overview of key metrics and reports
+| Quick Links:       |
+| - Dashboard        |             Reports: 
+| - Reports          | Detailed academic and business reports
+| - Analytics        | 
+| - Settings         |             Analytics:
+|                    | Interactive charts and data analysis tools
+----------------------------------------------------------------------
+|                       Footer                                       |
+|--------------------------------------------------------------------|
+| Contact Information | Social Media Links | Terms of Service |
+----------------------------------------------------------------------
+```
+
+This diagram outlines the layout of the header, sidebar, main content area, and footer for the frontend design.
